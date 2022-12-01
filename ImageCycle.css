@@ -1,0 +1,29 @@
+body {
+    background-color: lightgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    padding: 0 2em 1em;
+    width: 450px;
+}
+
+#slide_image {
+    width: 300px;
+    height: 300px;
+    z-index: 1;
+}
+img {
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 550px;
+    height: 450px;
+}
+
+figure {
+    text-align: center;
+    display: table;
+    align-content: left;
+    width: 30%;
+    margin: 10px auto;
+    
+}
